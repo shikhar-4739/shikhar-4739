@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shikhar Varshney</h1>
+### <samp>&gt; Hi there, I'm <a href="" target="_blank">Shikhar Varshney</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
 <h3 align="center">A passionate frontend developer from India .</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar-4739&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar-4739" /> </p>
